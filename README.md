@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on getting cloud, Database, AI/ML & Python Skills
 - 📫 How to reach me: email: nyandekek@gmail.com, linkedIn: www.linkedin.com/in/kamlesh-nyandeke-b889a3123
-- ⚡ Fun fact: I am a Lawyer turned IT expert, besides IT, feel free to engage me in legal matters 🤗
+- ⚡ Fun fact: I am a Lawyer turned IT expert, besides IT, feel free to engage me in legal matters 😊
