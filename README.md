@@ -1,4 +1,4 @@
-## Hi there 👋, it's good to have you here...
+## <b>it's good to have you here...</b>
 
 <!--
 **kamlesh-web/kamlesh-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 # 😊 About Me:
-- 🔭 I’m currently working on getting cloud, Database, AI/ML & Python Skills<br>
-- 📫 How to reach me: email: nyandekek@gmail.com, linkedIn: www.linkedin.com/in/kamlesh-nyandeke-b889a3123<br>
-- ⚡ Fun fact: I am actually a Lawyer with deep passion for IT 
-- 💬 Ask me about the Cloud (AWS), Databases (MongoDB), Netwroking (Cisco), Automation (Terraform), Static Website Hosting (Cloudflare/Netlify), etc...
+<i>A self taught IT proffessional passionate about all things tech;</i>
+
+- Software development
+- On prem &amp Cloud Infrastructure
+- Automation
+- Cyber Security
+- Computer Hardware &amp Software
+
 
 
 
