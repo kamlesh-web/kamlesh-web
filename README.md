@@ -1,5 +1,3 @@
-## <b>it's good to have you here...</b>
-
 <!--
 **kamlesh-web/kamlesh-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,14 +9,44 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-# 😊 About Me:
-<i>A self taught IT proffessional passionate about all things tech;</i>
+# Hi there, I'm Kamlesh Nyandeke 👋
 
-- Software development
-- On prem &amp Cloud Infrastructure
-- Automation
-- Cyber Security
-- Computer Hardware &amp Software
+I am a certified, detail-oriented IT Specialist actively training for the **Cisco Certified Network Associate (CCNA)** with a long-term focus on **Cloud Architecture (AWS)**. 
+
+With a professional background in the legal field, I bring a unique combination of meticulous analytical skills, risk management, and structured documentation to modern IT infrastructure and automation challenges.
+
+---
+
+### 🛠️ Professional Training
+- **Cisco NetAcademy;** CCNA, Cisco Certified Support Technician, Network Security(*Ongoing*), CyberOps(*Ongoing*), DevNet Associate(*Ongoing*)
+- **Dion Training-Udemy;** CompTIA Network+,CompTIA A+ (1201)
+- **AWS SkillBuilder;** AWS Certified Cloud Practitioner Essentials, AWS Cloud Quest-Cloud Practitioner
+- **IBM SkillBuilder;** Information Technology Fundamentals, IT Support Technician(*Ongoing*), IBM fullstack Web Deveveloper(*Ongoing*)
+  
+---
+
+### 💻 Technical Skills & Projects
+- **Automation & Scripting:** Developing desktop utilities and automated tools using **PowerShell**, **C# (.NET)**, and **Python**.
+- **Network Administration:** Configuration and management of local networks, routing protocols, and media sharing standards (DLNA).
+- **Systems & Deployment:** Packaging, testing, and distributing standalone Windows applications with secure deployment pipelines (Inno Setup / Git).
+
+---
+
+### 🚀 Featured Project
+**[My Free Speech Reader](LINK_TO_YOUR_REPO)**
+*A professional text-to-speech (TTS) & OCR accessibility utility built in PowerShell.*
+- Integrates the Tesseract OCR engine via .NET assemblies to extract text from images using Win32 API global hooks.
+- Features a custom dual-mode WinForms GUI (Dashboard & Draggable Mini-Widget).
+- Fully packaged and deployed via an automated Inno Setup installer.
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** www.linkedin.com/in/kamlesh-nyandeke-b889a3123
+- **Portfolio:** https://www.kamleshnyandekeat.netlify.app
+- **Email:** nyandekek@gmail.com
+
+"Leveraging a legal background to build secure, compliant, and highly efficient IT infrastructure."
 
 
 
