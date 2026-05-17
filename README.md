@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Kamlesh Nyandeke 👋
 
-I am a certified, detail-oriented IT Specialist actively training for the **Cisco Certified Network Associate (CCNA)** with a long-term focus on **Cloud Architecture (AWS)**. 
+I am a self-taught, IT Specialist with a background in Law. I'm currently training as a software engineer with a long-term focus of integrating everyday softwares with Artificial Intelligence(AI) & Machine Learning (ML).
 
-With a professional background in the legal field, I bring a unique combination of meticulous analytical skills, risk management, and structured documentation to modern IT infrastructure and automation challenges.
+I wear many hats - for purposes of staying relevant in diverse IT fields, and have diverse trainings as listed below.
 
 ---
 
