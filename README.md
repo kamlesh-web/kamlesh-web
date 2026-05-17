@@ -33,7 +33,7 @@ I wear many hats - for purposes of staying relevant in diverse IT fields, and ha
 ---
 
 ### 🚀 Featured Project
-**[My Free Speech Reader](LINK_TO_YOUR_REPO)**
+**[My Free Speech Reader](https://github.com/kamlesh-web/MyFreeSpeech-App-Reader)**
 *A professional text-to-speech (TTS) & OCR accessibility utility built in PowerShell.*
 - Integrates the Tesseract OCR engine via .NET assemblies to extract text from images using Win32 API global hooks.
 - Features a custom dual-mode WinForms GUI (Dashboard & Draggable Mini-Widget).
